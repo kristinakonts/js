@@ -125,8 +125,6 @@ console.log(strObj)
 
 // strReplace
 
-console.log(strObj.str.toUpperCase());
-console.log(strObj.str.toLowerCase());
 /*
  * #9
  *
